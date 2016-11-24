@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-main()
+int main()
 {
 cout<<"Hello\nWelcome to my test program";
+return 0; 
 }
